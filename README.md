@@ -23,7 +23,7 @@ A blog series my former self [published](http://web.archive.org/web/201209030115
 - [Peer Production](#peer-production)
 - [Local Currency](#local-currency)
 - [Currency Innovation](#currency-innovation)
-- [Afterward](#afterword)
+- [Afterword](#afterword)
 
 ## Foreword
 
