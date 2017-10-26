@@ -4,6 +4,27 @@ A blog series my former self [published](http://web.archive.org/web/201209030115
 
 ---
 
+## Table of Contents
+- [Forward](#foreword)
+- [Money and Semiotics](#money-and-semiotics)
+- [Gift Economies](#gift-economies)
+- [The Emergence of Money](#the-emergence-of-money)
+- [Money and Banking](#money-and-banking)
+- [Corporatism (Banking)](#corporatism-fascism)
+- [Artificial Scarcity](#artificial-scarcity)
+- [The Commons](#the-commons)
+- [Social Capital](#social-capital)
+- [Sustainability](#sustainability)
+- [Employment](#employment)
+- [Collaborative Consumption](#collaborative-consumption)
+- [Panarchy](#panarchy)
+- [Social Media](#social-media)
+- [Smart Cities](#smart-cities)
+- [Peer Production](#peer-production)
+- [Local Currency](#local-currency)
+- [Currency Innovation](#currency-innovation)
+- [Afterward](#afterword)
+
 ## Foreword
 
 Having had some time to reflect and distance myself from earlier ideas, a different set of topics have emerged within my interest ecology that I wish to explore. Broadly speaking this work very briefly considers the transition from the industrial economy to a network economy. I draw inspiration from many people and those who can articulate things far better than I. [Michel Bauwens](http://p2pfoundation.net/), [Yochai Benkler](http://benkler.org/), [Charles Eisenstein](http://charleseisenstein.net/), [Douglas Rushkoff](http://www.rushkoff.com/) and [Bernard Lietaer](http://www.lietaer.com/) to name but a few. Those familiar with [my previous media projects](http://www.holoplexmedia.com/) will know I like to try and synthesize the collection of ideas I have at the time and present them as a creative narrative. The usual caveat being that I don’t claim to have any background in the subjects discussed here, nor am I asking people to believe what I say. The ideas presented here should be taken as scant and necessarily incomplete. That being said I believe that we each have something valuable to contribute and by sharing our understandings with others together we can see a bigger picture. Besides which, I’m sure most of us would agree that orthodox political and economic theory doesn’t appropriate to today’s highly networked society and the issues we collectively face.
@@ -49,6 +70,14 @@ From an evolutionary biologist perspective, such [mutualism](http://en.wikipedia
 Much of the biological diversity that we see in the World has been driven by mutualism and the co-evolution of species. Gift economies can therefore been seen as a sustainable form of human ecology. Furthermore the success of co-operation can be mathematically proven through the highly effective [tit for tat](http://en.wikipedia.org/wiki/Tit_for_tat) strategy in [game theory](http://en.wikipedia.org/wiki/Game_theory). Tit for tat encompasses the game logic of reciprocal altruism, put simply unless provoked the player will always co-operate. The caveat to the effectiveness is that if negotiations are seeded on bad terms for several rounds then co-operation completely breaks down. For example, if I trust you but you cheat on me then I may be quick to forgive, but if you cheat on me again then I’ll become increasingly unlikely to trust you and will instead compete against you.
 
 We are all born as helpless infants entirely dependent on our carers to nurture us. Life itself is a gift that is given to each of us, our very existence informs a deep sense of gratitude for all life. Phylogenetically, human beings are a non-predatory species, we only act out competitive behaviours because of environmental stresses from unnatural living conditions. Consequently, many people have marred darwinistic views of human beings as inherently competitive. Alienated from ourselves, we enter into a vicious cycle of destructive, dominating and lustful behaviours which underpin our civilization.
+
+## The Emergence of Money
+
+[Bartering](http://en.wikipedia.org/wiki/Barter) is a longstanding form of non-monetary exchange where goods and services are directly exchanged for other goods and services. Historically, bartering existed alongside gift economies, but was used much more rarely. Traditional bartering suffers from what is called the problem of coincidence of wants. Put simply, I can’t trade my goods and services for what I want unless the person offering what I want also wants what I have to offer. This is the primary reason why money came to be as a result of the [division of labour](http://en.wikipedia.org/wiki/Division_of_labour). Money removes the coincidence of wants and provides a more convenient way for people to exchange using a commonly agreed upon medium.
+
+With the advent of city states, non-monetary exchange was replaced by [commodity money](http://en.wikipedia.org/wiki/Commodity_money). Commodity money refers to a commodity that acts an intermediary for exchanging for other goods and services. For example in ancient Rome salt was used as commodity money and soldiers were paid in salt, incidentally that is where the root of the word salary comes from, the Latin word salarium. More commonly, precious metals have been used as commodity money for much of civilized history as they are durable, portable and easily divisible.
+
+[Representative money](http://en.wikipedia.org/wiki/Representative_money) is another type of money that served as an IOU backed by gold and silver. This meant that citizens could redeem gold and silver at a bank using their IOUs. Shortly thereafter, traditional banking functions were combined with the issuance of bank debt that served as a substitute for gold and silver coins. This system grew into what we know today as [fractional-reserve banking](http://en.wikipedia.org/wiki/Fractional_reserve_banking). Money became problematic when two kinds of IOUs were issued into circulation each serving different functions. The first served as a claim check for gold and silver on deposit, and the other was a credit instrument issued as a promise to pay backed by some collateral assets, however both were redeemable for gold and silver. Consequently, there was never enough gold and silver to redeem all the notes in circulation. As such, the gold and silver standard was abolished in the U.S. in 1933 and internationally in 1971 by the actions of President Eisenhower and Nixon respectively. As a result representative money disappeared altogether. Today, virtually all money in circulation is [fiat money](http://en.wikipedia.org/wiki/Fiat_money) which is backed by nothing but promises and debt.
 
 ## Money and Banking
 
