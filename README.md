@@ -5,7 +5,7 @@ A blog series my former self [published](http://web.archive.org/web/201209030115
 ---
 
 ## Table of Contents
-- [Forward](#foreword)
+- [Foreword](#foreword)
 - [Money and Semiotics](#money-and-semiotics)
 - [Gift Economies](#gift-economies)
 - [The Emergence of Money](#the-emergence-of-money)
