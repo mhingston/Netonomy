@@ -2,7 +2,7 @@
 
 A blog series my former self [published](http://web.archive.org/web/20120903011513/http://www.holoplexmedia.com:80/category/netonomy) on 26th March 2012. I thought I'd find a home for it here as the content still seems relevant.
 
-*Edit* (2019-12-22): See also [#GameB](https://twitter.com/hashtag/GameB).
+*Edit* (2019-12-22): See also [#GameB](https://www.gameb.wiki/wiki/Game_B).
 
 ---
 
